@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Show park data}
   spec.description   = %q{park data that will be shown.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/liamwilley/parks_gem"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
